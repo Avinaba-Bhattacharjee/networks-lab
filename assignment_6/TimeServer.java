@@ -1,3 +1,5 @@
+// server side code
+
 package assignment_6;
 
 import java.net.*;

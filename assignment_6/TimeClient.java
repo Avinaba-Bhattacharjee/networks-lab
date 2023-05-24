@@ -1,3 +1,9 @@
+/* Write a client-server program using java such that the client 
+   will be able to access the most recent date and time at the server 
+*/
+
+// client side code
+
 package assignment_6;
 
 import java.net.*;
